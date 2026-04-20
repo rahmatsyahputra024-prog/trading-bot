@@ -1,0 +1,9 @@
+python-binance
+pandas
+ta
+requests
+feedparser
+beautifulsoup4
+vaderSentiment
+python-dotenv
+google-generativeai
